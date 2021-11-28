@@ -34,7 +34,7 @@ tl.from(bgd, 0.2, {opacity:0, scale:0, transformOrigin: 'center center'})
 	.to(bgd, 0.2, {opacity: 0.1, delay:0.5}, "a-=0.05")
 	.to(bgd, 0.1, {opacity: 1}, "b-=0.05")
 	.to(bgd, 0.1, {opacity: 0.5}, "c-=0.05")
-	.to(bgd, 0.2, {opacity: 1, fill: '#FDD10D'})
+	.to(bgd, 1, {opacity: 0.2, fill: 'white'})
 	.fromTo(lampLine, 0.2, {opacity: 0},{opacity: 0.2, delay:0.5}, "a-=0.05")
 	.to(lampLine, 0.1, {opacity: 1}, "b-=0.05")
 	.to(lampLine, 0.1, {opacity: 0.5}, "c-=0.05");
