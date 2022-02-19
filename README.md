@@ -8,7 +8,7 @@
 </div>
 
 ## 💬 About
-<img align="right" src="https://github.com/KhalilThabet/KhalilThabet/blob/main/DesktopDraw.gif" width="350" height="360"/>
+<img align="right" src="https://github.com/KhalilThabet/KhalilThabet/blob/main/DesktopDraw.gif" width="330" height="340"/>
 
 <p style="font-size:150%">I am a Second Year Software Engineering student, studying <strong>Computer Science</strong> at <strong>National School Of Computer Science</strong> who is passionate about Programming, and open source, I love to learn and contribute in any and every possible way.</p>:octocat:
 
