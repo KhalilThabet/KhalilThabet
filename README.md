@@ -8,8 +8,8 @@
 </div>
 
 ## 💬 About
-
-<img align="right" src="https://giphy.com/gifs/visuals-network-connectivity-7VzgMsB6FLCilwS30v" width="300" height="300" />
+TEXT
+<img align="right" src="https://github.com/KhalilThabet/KhalilThabet/blob/main/DesktopDraw.gif" width="280" height="280"/>
 
 ## 📊 Github stats
 
