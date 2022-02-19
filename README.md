@@ -8,9 +8,9 @@
 </div>
 
 ## 💬 About
-<img align="right" src="https://github.com/KhalilThabet/KhalilThabet/blob/main/DesktopDraw.gif" width="280" height="280"/>
+<img align="right" src="https://github.com/KhalilThabet/KhalilThabet/blob/main/DesktopDraw.gif" width="400" height="400"/>
 
-<p style="font-size:150%">I am a Second Year Software Engineering student, studying <strong>Computer Science</strong> at <strong>National School Of Computer Science</strong> who is passionate about Programming, and open source</p> :octocat: <p style="font-size:150%">, I love to learn and contribute in any and every possible way.</p>
+<p style="font-size:150%">I am a Second Year Software Engineering student, studying <strong>Computer Science</strong> at <strong>National School Of Computer Science</strong> who is passionate about Programming, and open source, I love to learn and contribute in any and every possible way.</p>:octocat:
 
 
 
