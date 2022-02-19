@@ -9,7 +9,7 @@
 
 ## 💬 About
 
-<img src="https://github.com/KhalilThabet/KhalilThabet/blob/main/DesktopDraw.gif" width="1200" height="500" />
+<img src="https://github.com/KhalilThabet/KhalilThabet/blob/main/DesktopDraw.gif" width="500" height="100" />
 
 I am a Second Year Software Engineering student, studying **Computer Science** at **National School Of Computer Science** who is passionate about Programming, and open source :octocat:, I love to learn and contribute in any and every possible way.
 
