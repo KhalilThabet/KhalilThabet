@@ -8,14 +8,14 @@
 </div>
 
 ## 💬 About
-TEXT
+I am a Second Year Software Engineering student, studying **Computer Science** at **National School Of Computer Science** who is passionate about Programming, and open source :octocat:, I love to learn and contribute in any and every possible way.
+
 <img align="right" src="https://github.com/KhalilThabet/KhalilThabet/blob/main/DesktopDraw.gif" width="280" height="280"/>
 
 ## 📊 Github stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khalilThabet&theme=onedark_duo&hide_border=true&background=1F222E&ring=F8D866&fire=FF8900&sideNums=F8D866&sideLabels=DDDDDD&dates=FF8323)](https://git.io/streak-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Swayam Terode's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilThabet&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F8D866&icon_color=F8D866" height="192px"/></a>
  
 
  <img alt="Khalil Thabets's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=khalilThabet&bg_color=1F222E&color=F8D866&line=36BCF7FF&point=FFFFFF&hide_border=true" /></a>
