@@ -1,16 +1,18 @@
 
 <div align="center">
   
-# Welcome to Khalil Thabet's Github Profile <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> <br>
+# Welcome to Khalil Thabet's Github Profile <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <br>
   
 <br>
 
 </div>
 
 ## 💬 About
-I am a Second Year Software Engineering student, studying **Computer Science** at **National School Of Computer Science** who is passionate about Programming, and open source :octocat:, I love to learn and contribute in any and every possible way.
-
 <img align="right" src="https://github.com/KhalilThabet/KhalilThabet/blob/main/DesktopDraw.gif" width="280" height="280"/>
+
+<p style="font-size:150%">I am a Second Year Software Engineering student, studying <strong>Computer Science</strong> at <strong>National School Of Computer Science</strong> who is passionate about Programming, and open source</p> :octocat: <p style="font-size:150%">, I love to learn and contribute in any and every possible way.</p>
+
+
 
 ## 📊 Github stats
 
