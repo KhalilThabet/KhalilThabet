@@ -9,7 +9,7 @@
 
 ## 💬 About
 
-<img src="https://github.com/KhalilThabet/KhalilThabet/blob/main/DesktopDraw.gif" width="500" height="166.65" margin-right="200" />
+<img align="right" src="https://giphy.com/gifs/visuals-network-connectivity-7VzgMsB6FLCilwS30v" width="300" height="300" />
 
 ## 📊 Github stats
 
@@ -20,7 +20,7 @@
 
  <img alt="Khalil Thabets's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=khalilThabet&bg_color=1F222E&color=F8D866&line=36BCF7FF&point=FFFFFF&hide_border=true" /></a>
 
-I am a Second Year Software Engineering student, studying **Computer Science** at **National School Of Computer Science** who is passionate about Programming, and open source :octocat:, I love to learn and contribute in any and every possible way.
+
 
 ## 🛠  Languages and Tools
 
