@@ -1,0 +1,39 @@
+.logo {
+      width: 8%;
+      margin-left: 34px;
+      filter: invert(100%);
+      margin-right:20px;
+  }
+  
+  .nav-theme {
+    background-color: rgba(0, 0, 0, 0.89);
+    font-size: 20px;
+    height: 85px !important;
+  }
+  .navbar-dark .navbar-nav .nav-link{
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+  .animate-navbar {
+    box-shadow: 1px 1px 1px #222;
+    animation: moveDown 0.5s ease-in-out;
+  }
+  @media only screen and (max-width: 786px){
+    .nav-theme{
+      height: auto !important;
+      width: 100%;
+    }
+    .logo{
+    margin-bottom:-32px;
+    margin-left: 22px;
+    }
+  }
+  
+  @keyframes moveDown {
+    from {
+      transform: translateY(-5rem);
+    }
+    to {
+      transform: translateY(0rem);
+    }
+  }

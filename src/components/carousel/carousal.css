@@ -1,0 +1,6 @@
+.custom-img {
+    margin-top:5%;
+    height: 100vh;
+    width:90%;
+    object-fit: cover;
+  }
