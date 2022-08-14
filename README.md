@@ -11,7 +11,7 @@
 <img align="right" src="https://github.com/KhalilThabet/KhalilThabet/blob/main/DesktopDraw.gif" width="330" height="340"/>
 
 <p style="font-size:200%">I am a Second Year Software Engineering student, studying <strong>Computer Science</strong> at <strong>National School Of Computer Science</strong> who is passionate about Programming, and open source, I love to learn and contribute in any and every possible way.</p>:octocat:
-Click here to see My Website </br>
+[Click here to see My Website](https://khalilthabet.live/)</br>
 
 
 
@@ -19,20 +19,6 @@ Click here to see My Website </br>
 ## 📊 Github stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khalilThabet&theme=onedark_duo&hide_border=true&background=1F222E&ring=F8D866&fire=FF8900&sideNums=F8D866&sideLabels=DDDDDD&dates=FF8323)](https://git.io/streak-stats)
-
- 
-
- <img alt="Khalil Thabets's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=khalilThabet&bg_color=1F222E&color=F8D866&line=36BCF7FF&point=FFFFFF&hide_border=true" /></a>
-
-
-
-## 🛠  Languages and Tools
-
-<p align="left">
-
-![C++](https://img.shields.io/badge/-C++-181717?style=flat&logo=c) | ![HTML5](https://img.shields.io/badge/-HTML5-181717?style=flat&logo=html5&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat&logo=javascript) | ![Git](https://img.shields.io/badge/-Git-181717?style=flat&logo=git) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![JAVA](https://img.shields.io/badge/-Java-181717?style=flat&logo=java) | ![C](https://img.shields.io/badge/-C-181717?style=flat&logo=C) | ![ReactJS](https://img.shields.io/badge/-React-181717?style=flat&logo=React) | ![Express](https://img.shields.io/badge/-express-181717?style=flat&logo=express) | ![KaliLinux](https://img.shields.io/badge/-KaliLinux-181717?style=flat&logo=KaliLinux)
-![Assembly](https://img.shields.io/badge/-Assembly-181717?style=flat&logo=Assembly) | ![Python](https://img.shields.io/badge/-Python-181717?style=flat&logo=Python) | ![Angular](https://img.shields.io/badge/-Angular-181717?style=flat&logo=Angular) | ![wireshark](https://img.shields.io/badge/-wireshark-181717?style=flat&logo=wireshark) | ![Nvidia](https://img.shields.io/badge/-Nvidia-181717?style=flat&logo=nvidia) | ![QT](https://img.shields.io/badge/-QT-181717?style=flat&logo=qt) | ![Ubuntu](https://img.shields.io/badge/-UBUNTU-181717?style=flat&logo=ubuntu) | ![Notion](https://img.shields.io/badge/-NOTION-181717?style=flat&logo=notion) | 
 
 ## 👨‍💻  Coding Platforms
 
