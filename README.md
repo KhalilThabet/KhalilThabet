@@ -10,8 +10,7 @@
 ## 💬 About
 <img align="right" src="https://github.com/KhalilThabet/KhalilThabet/blob/main/DesktopDraw.gif" width="330" height="340"/>
 
-<p style="font-size:200%">I am a Second Year Software Engineering student, studying <strong>Computer Science</strong> at <strong>National School Of Computer Science</strong> who is passionate about Programming, and open source, I love to learn and contribute in any and every possible way.</p>:octocat:
-[Click here to see My Website](https://khalilthabet.live/)</br>
+<p style="font-size:200%">I am a Second Year Software Engineering student, studying <strong>Computer Science</strong> at <strong>National School Of Computer Science</strong> who is passionate about Programming, and open source, I love to learn and contribute in any and every possible way.</p>:octocat:</br>[Click here to see My Website](https://khalilthabet.live/)
 
 
 
