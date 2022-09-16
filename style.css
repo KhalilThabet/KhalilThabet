@@ -348,9 +348,9 @@ html, body {
 
 @media screen and (max-width: 1000px) {
     .image{
-        width: 70vw;
+        width: 50vw;
         height: 70vw;
-        margin: 8vw 13vw 0vw 13vw;
+        margin: 8vw 22vw 0vw 13vw;
         padding-bottom: 0vw;
     }
     .name{
@@ -550,9 +550,8 @@ html, body {
   .container {
     position: relative;
     width: 320px;
-    margin: 700px auto 100px auto;
+    margin: 700px auto -15% auto;
     perspective: 1000px;
-    margin-bottom:-400px;
   }
   
   .carousel {
