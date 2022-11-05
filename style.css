@@ -3,7 +3,12 @@ html, body {
     font-family: 'Poppins', sans-serif;
     overflow-x: hidden;
 }
-
+.tab{
+    position: absolute;
+    margin-left:auto;
+    margin-right:auto;
+    overflow-x:auto;
+}
 table {
     text-align: left;
     position: relative;
