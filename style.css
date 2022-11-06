@@ -4,16 +4,20 @@ html, body {
     overflow-x: hidden;
 }
 .tab{
-    position: absolute;
+    position: relative;
     margin-left:auto;
     margin-right:auto;
     overflow-x:auto;
+}
+.dark-mode{
+  background-color: black;
+  color: rgb(255, 255, 255);
 }
 table {
     text-align: left;
     position: relative;
     border-collapse: collapse; 
-    background-color: #f6f6f6;
+    background-color: #fffdfd;
   }/* Spacing */
   td, th {
     border: 1px solid #999;
@@ -258,6 +262,7 @@ table {
     color: rgb(37, 37, 37);
     font-size: 1vw;
     font-weight: 100;
+    padding-top:100;
     padding: 0vw 0vw 0vw 13.5vw;
     line-height: 2vw;
     margin-bottom: 10vh;
@@ -285,7 +290,7 @@ table {
     font-weight: 400;
     padding: 7vw 0vw 0vw 13vw;
     line-height: 2.5vw;
-    margin-bottom: 10v   h;
+    margin-bottom: 10vh;
 }
 
 .icons a{
